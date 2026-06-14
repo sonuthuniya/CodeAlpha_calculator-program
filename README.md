@@ -50,7 +50,7 @@ Enter two numbers : 25 8
 ## Output Screen
 Below is a sample output of the calculator running in the terminal:
 
-![Calculator Output]calculator.PNG)
+![Calculator Output](calculator.png)
 ---
 
 
